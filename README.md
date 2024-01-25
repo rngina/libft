@@ -50,11 +50,11 @@ Libft is a project that challenges you to reimplement a set of functions from th
 
 ### Linked list functions
 
-- [`ft_lstnew`](libft/ft_lstnew.c)	- creates a new list element.
-- [`ft_lstadd_front`](libft/ft_lstadd_front.c)	- adds an element at the beginning of a list.
-- [`ft_lstsize`](libft/ft_lstsize.c)	- counts the number of elements in a list.
-- [`ft_lstlast`](libft/ft_lstlast.c)	- returns the last element of the list.
-- [`ft_lstadd_back`](libft/ft_lstadd_back.c)	- adds an element at the end of a list.
-- [`ft_lstclear`](libft/ft_lstclear.c)	- deletes and free list.
-- [`ft_lstiter`](libft/ft_lstiter.c)	- applies a function to each element of a list.
-- [`ft_lstmap`](libft/ft_lstmap.c)	- applies a function to each element of a list.
+- [`ft_lstnew`](libft/ft_lstnew_bonus.c)	- creates a new list element.
+- [`ft_lstadd_front`](libft/ft_lstadd_front_bonus.c)	- adds an element at the beginning of a list.
+- [`ft_lstsize`](libft/ft_lstsize_bonus.c)	- counts the number of elements in a list.
+- [`ft_lstlast`](libft/ft_lstlast_bonus.c)	- returns the last element of the list.
+- [`ft_lstadd_back`](libft/ft_lstadd_back_bonus.c)	- adds an element at the end of a list.
+- [`ft_lstclear`](libft/ft_lstclear_bonus.c)	- deletes and free list.
+- [`ft_lstiter`](libft/ft_lstiter_bonus.c)	- applies a function to each element of a list.
+- [`ft_lstmap`](libft/ft_lstmap_bonus.c)	- applies a function to each element of a list.
