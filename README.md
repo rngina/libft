@@ -1,6 +1,6 @@
 # libft
 
-Libft is a project that challenges you to reimplement a set of functions from the standard C library (libc). The objective is to create functions with the same prototypes and behaviors as their libc counterparts, adhering strictly to the definitions provided in their respective man pages. The only distinction lies in the names of these functions, prefixed with 'ft_'.
+The objective is to create my own library with some of the popular functions from C libraries in order to use it my future projects.
 
 # Libft Functions
 
